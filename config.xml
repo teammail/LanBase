@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<cars>
+  <models name = "rusAuto">
+    <car id="1"> VAZ </car>
+    <car id="2"> UAZ </car>   
+  </models>
+</cars>

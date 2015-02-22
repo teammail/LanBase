@@ -5,3 +5,4 @@
 Получилось настроить соединение с GitHub по SSH.
 // Ссылка на порядок настройки
 https://help.github.com/articles/generating-ssh-keys/
+Настроена обратная связь. Скачать с GitHub.
